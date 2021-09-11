@@ -1,0 +1,38 @@
+body {
+  background-color: #f8f9fa !important;
+  margin: 1em 0;
+}
+.jumbotron {
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
+  background-color: #fff;
+  padding: 2em 3em;
+  border-radius: 0.5em;
+}
+.title {
+  margin-top: -0.5em;
+}
+.pull-right {
+  text-align: right;
+}
+.input-style {
+  border: none;
+  border-bottom: 1px solid #eee;
+  border-radius: 0%;
+}
+.title-clr {
+  color: rgb(95, 92, 92);
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.sub-text {
+  margin: 0.5em;
+  color: rgb(120, 9, 247);
+  font-weight: 500;
+  font-size: 1em;
+}
+.vertical-align {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
